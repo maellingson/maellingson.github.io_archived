@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: 100%;
+  padding-bottom: 100px;
+ font-family: 'Carrois Gothic', sans-serif;
+}
+wrapper.h1{
+  font-size: 36pt;
+}
